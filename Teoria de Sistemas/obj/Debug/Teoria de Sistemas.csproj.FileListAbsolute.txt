@@ -32,3 +32,5 @@ C:\Users\Marcuan\Documents\Visual Studio 2010\Projects\Teoria de Sistemas\Teoria
 C:\Users\Marcuan\Documents\Visual Studio 2010\Projects\Teoria de Sistemas\Teoria de Sistemas\obj\Debug\ResGen.read.1.tlog
 C:\Users\Marcuan\Documents\Visual Studio 2010\Projects\Teoria de Sistemas\Teoria de Sistemas\obj\Debug\GenerateResource-ResGen.write.1.tlog
 C:\Users\Marcuan\Documents\Visual Studio 2010\Projects\Teoria de Sistemas\Teoria de Sistemas\obj\Debug\ResGen.write.1.tlog
+C:\Users\Damaris Selada\Documents\GitHub\Proyecto-Teoria-de-Sistemas\Teoria de Sistemas\obj\Debug\Teoria de Sistemas.exe
+C:\Users\Damaris Selada\Documents\GitHub\Proyecto-Teoria-de-Sistemas\Teoria de Sistemas\obj\Debug\Teoria de Sistemas.pdb

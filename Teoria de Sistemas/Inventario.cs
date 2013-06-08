@@ -53,5 +53,10 @@ namespace Teoria_de_Sistemas
             + "and C.nombreTipoProducto like '" + (comboBox1.Text == "-Todos-" ? "%" : comboBox1.Text) + "'"
             );
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("No Ingreso ni miercoles");
+        }
     }
 }
